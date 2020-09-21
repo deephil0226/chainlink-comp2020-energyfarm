@@ -144,10 +144,3 @@ Create and adopt the file **".env.shamb0.lab1"** as per your environment.
 
 ---
 
-## Shoutout
-
-Thanks to @alcuadrado & @abcoathup for supporting & guiding to resolve some bringup issues ...
-
-![](https://i.imgur.com/W6W0NXW.png)
-
-![](https://i.imgur.com/0NCE2bp.png)
